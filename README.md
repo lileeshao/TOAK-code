@@ -1,6 +1,6 @@
 # Demo code of TOAK
 
-This is the demo code for the paper "Adversarial for Social Privacy: A Poisoning Strategy to Degrade User Identity Linkage". It contains the following parts:
+This is the demo code for TOAK. It contains the following parts:
 
 * toak_attack.py : source code of proposed TOAK.
 * vgae.py : source code of Variational Graph Auto-encoder (VGAE), which is used to generate node embedding.
